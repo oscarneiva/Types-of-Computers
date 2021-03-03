@@ -18,12 +18,18 @@ h1{
 
 .top-menu{
   text-align: center;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 .text-container{
   background-color: #212121;
-  padding: 200px 6px 200px 6px;
+  padding: 150px 6px 150px 6px;
+}
+
+.bottom-menu{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 body{
